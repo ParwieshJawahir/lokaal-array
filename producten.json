@@ -1,0 +1,35 @@
+{
+  "automerken": [
+    {
+      "merk": "Toyota",
+      "land": "Japan",
+      "oprichtingsjaar": 1937,
+      "populair_model": "Corolla"
+    },
+    {
+      "merk": "BMW",
+      "land": "Duitsland",
+      "oprichtingsjaar": 1916,
+      "populair_model": "3 Series"
+    },
+    {
+      "merk": "Ford",
+      "land": "Verenigde Staten",
+      "oprichtingsjaar": 1903,
+      "populair_model": "F-150"
+    },
+    {
+      "merk": "Audi",
+      "land": "Duitsland",
+      "oprichtingsjaar": 1910,
+      "populair_model": "A4"
+    },
+    {
+      "merk": "Mercedes-Benz",
+      "land": "Duitsland",
+      "oprichtingsjaar": 1926,
+      "populair_model": "C-Class"
+    }
+  ]
+}
+
